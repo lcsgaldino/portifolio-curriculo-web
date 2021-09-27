@@ -3,8 +3,6 @@
 
 # Sobre o projeto
 
-https://lucasgaldinoresume.ga
-
 Este projeto é uma construção simples usando línguagens de desenvolvimento web através do framework Bootstrap. A página é estruturada com menu de navegação lateral ao qual apresenta opções para visualização de informações.
 
 Esse projeto foi realizado durante estudos de HTML, CSS e JavaScript.
